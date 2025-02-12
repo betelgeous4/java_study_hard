@@ -1,6 +1,4 @@
-package Chapter07_method;
-
-import java.util.Scanner;
+package chapter07_method;
 
 /*
     점수들을 입력받아 총합 및 평균 점수를 내는 프로그램을 구현할 예정

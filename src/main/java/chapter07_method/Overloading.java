@@ -1,4 +1,4 @@
-package Chapter07_method;
+package chapter07_method;
 /*
     method Overloading
         매개변수의 형태가 다르면 동일한 메서드 명을 가지고 정의할 수 있다
