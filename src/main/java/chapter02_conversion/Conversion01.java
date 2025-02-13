@@ -3,7 +3,7 @@ package chapter02_conversion;
 public class Conversion01 {
     public static void main(String[] args) {  //  소문자로 main 치고 엔터
         /*
-            형변환(conversion): 용량상의 문제로 ㅇ리어난느 이슈를 해결하기 위해서 사용
+            형변환(conversion): 용량상의 문제로 일어나는 이슈를 해결하기 위해서 사용
 
             1. 업캐스팅(upcasting): 더 큰 용량의 자료형으로 변환 시키는 것
 
