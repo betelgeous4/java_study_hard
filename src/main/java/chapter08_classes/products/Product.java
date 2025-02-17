@@ -41,7 +41,7 @@ public class Product {
     int productNum;
     String productName;
 
-    Product(){
+    public Product(){
     }
     Product(int productNum){
         this.productNum = productNum;
