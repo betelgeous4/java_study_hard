@@ -24,6 +24,7 @@ public class ProductView {
 
 
     public void showMainView() {
+        
     }
 }
    //  출처: https://ittrue.tistory.com/563 [IT is True:티스토리]
